@@ -1,5 +1,5 @@
 import Garage from "./components/garage";
-
+{/*the home page/*}
 export default function Home() {
   return (
     <div>
